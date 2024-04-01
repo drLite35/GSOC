@@ -1,4 +1,4 @@
-# Google Summer of Code Proposals
+# Google Summer of Code Proposals - 2024
 
 ## About
 
@@ -26,4 +26,4 @@ The API documentaiton of FreeCAD is generated with doxygen from the docstrings c
 
 #### Proposal Document
 
-[View Proposal Document]
+[View Proposal Document](FreeCAD_Oval.pdf)
