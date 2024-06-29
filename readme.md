@@ -2,7 +2,8 @@
 
 ## About
 
-This repository contains my proposals for Google Summer of Code (GSoC) 2024 with Sugar Labs and FreeCAD organizations. GSoC is a global program that offers student developers stipends to write code for various open-source projects. These proposals outline my project ideas, plans, and qualifications for participating in GSoC.
+This repository contains my proposals and journey for Google Summer of Code (GSoC) 2024 with Sugar Labs. I also applied to another organization, FreeCAD. GSoC is a global program that offers stipends to student developers for contributing to open-source projects. These proposals outline my project ideas, plans, and qualifications for participating in GSoC.
+
 
 ## Organization: Sugar Labs
 
@@ -14,7 +15,7 @@ Sugar runs on RPi and we should take advantage of that to reach the Maker commun
 
 #### Proposal Document
 
-[View Proposal Document](sugarlabs.pdf)
+[View Proposal Document](https://github.com/Ovalelephant35/GSOC/tree/main/SugarLabs)
 
 ## Organization: FreeCAD
 
@@ -26,4 +27,15 @@ The API documentaiton of FreeCAD is generated with doxygen from the docstrings c
 
 #### Proposal Document
 
-[View Proposal Document](FreeCAD_Oval.pdf)
+[View Proposal Document](https://github.com/Ovalelephant35/GSOC/blob/main/FreeCAD)
+
+## TimeLine & Weekly Update
+
+|Weekly Update                       |
+|------------------------------------|
+| **[Week 1-2](#)**                |
+| **[Week 3-4](#)**                |
+| **[Week 5-6](#)**               |
+| **[Week 7-8](#)**              |
+| **[Week 9-10](#)**               |
+| **[Week 11-12](#)**             | 
