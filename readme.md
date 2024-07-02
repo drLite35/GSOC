@@ -33,8 +33,8 @@ The API documentaiton of FreeCAD is generated with doxygen from the docstrings c
 
 |Weekly Update                       |
 |------------------------------------|
-| **[Week 1-2](#)**                |
-| **[Week 3-4](#)**                |
+| **[Week 1-2](https://medium.com/@principalquantum30/getting-started-with-gsoc-at-sugar-labs-c9d5db78167a)**                |
+| **[Week 3-4](https://medium.com/@principalquantum30/gsoc-with-sugarlabs-coding-phase-ii-week-3-4-1db73480b68d)**                |
 | **[Week 5-6](#)**               |
 | **[Week 7-8](#)**              |
 | **[Week 9-10](#)**               |
